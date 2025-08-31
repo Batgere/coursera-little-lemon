@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Batgere/capstone-my.git/static/css/main.e3ea7625.css",
+    "main.js": "/Batgere/capstone-my.git/static/js/main.685658a6.js",
+    "static/js/453.a1c555ca.chunk.js": "/Batgere/capstone-my.git/static/js/453.a1c555ca.chunk.js",
+    "static/media/restaurant-chef-B.jpg": "/Batgere/capstone-my.git/static/media/restaurant-chef-B.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek-salad.jpg": "/Batgere/capstone-my.git/static/media/greek-salad.bed423a1fab5b210e347.jpg",
+    "static/media/restaurant-food.jpg": "/Batgere/capstone-my.git/static/media/restaurant-food.e8abf5b772b6817189aa.jpg",
+    "static/media/dining-in.png": "/Batgere/capstone-my.git/static/media/dining-in.4ac074f666b1e268ce04.png",
+    "static/media/storefront.png": "/Batgere/capstone-my.git/static/media/storefront.d6fc0cc7b41ca48a8869.png",
+    "static/media/Logo.svg": "/Batgere/capstone-my.git/static/media/Logo.fd87fc34e15316b670ea115ce700cd15.svg",
+    "static/media/user-2.png": "/Batgere/capstone-my.git/static/media/user-2.b7ec487fd94359804ecd.png",
+    "static/media/user-1.png": "/Batgere/capstone-my.git/static/media/user-1.ba66b32c42f227b1a7eb.png",
+    "static/media/user-4.png": "/Batgere/capstone-my.git/static/media/user-4.72c3d079d139ed84c6dd.png",
+    "static/media/user-3.png": "/Batgere/capstone-my.git/static/media/user-3.2c995e0bbb427ad1b8ef.png",
+    "index.html": "/Batgere/capstone-my.git/index.html",
+    "main.e3ea7625.css.map": "/Batgere/capstone-my.git/static/css/main.e3ea7625.css.map",
+    "main.685658a6.js.map": "/Batgere/capstone-my.git/static/js/main.685658a6.js.map",
+    "453.a1c555ca.chunk.js.map": "/Batgere/capstone-my.git/static/js/453.a1c555ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ea7625.css",
+    "static/js/main.685658a6.js"
+  ]
+}
